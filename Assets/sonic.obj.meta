@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: sonic_Texture
-    second: {fileID: 2100000, guid: dc435cd110bf1554490767db4d35106f, type: 2}
+    second: {fileID: 2100000, guid: 49fc60de23c4a6145ae79283d1a9aef3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
